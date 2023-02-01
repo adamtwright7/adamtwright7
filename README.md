@@ -2,7 +2,8 @@
 <h3 align="center">Software Engineer</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=adamtwright7&label=Profile%20views&color=0e75b6&style=flat" alt="adamtwright7" />
-  </p>
+</p>
+  
 - 🌱 I’m currently learning **React** 
 - 📄 Check out my [portfolio](https://adamtwright7.github.io/) 
 - 📫 Email me at **adamtwright7@gmail.com** 
