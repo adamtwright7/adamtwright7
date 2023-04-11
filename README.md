@@ -1,10 +1,11 @@
 <h1 align="center">Hi, I'm Adam Wright</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Fullstack Web Developer</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=adamtwright7&label=Profile%20views&color=0e75b6&style=flat" alt="adamtwright7" />
 </p>
   
-- 🌱 I’m currently learning **Java** 
+- 💪 My strengths are React and Node.js 
+- 🌱 I’m currently learning **AWS** 
 - 📄 Check out my [portfolio](https://adamtwright7.github.io/) 
 - 📫 Email me at **adamtwright7@gmail.com** 
 
